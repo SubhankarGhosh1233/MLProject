@@ -125,9 +125,3 @@ class DataTransformation:
         except Exception as e:
             raise Custome_Exception(e,sys)
 
-
-
-
-
-        
-        
