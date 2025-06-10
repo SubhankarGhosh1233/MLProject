@@ -19,6 +19,8 @@ def index():
 def home():
     return render_template('home.html')
 
+print(request.form)
+
 @app.route('/predictdata',methods=['GET','POST'])
 def predict_datapoint():
     if request.method=='GET':
