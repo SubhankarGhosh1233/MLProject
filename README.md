@@ -1,1 +1,1 @@
-## End To End Machine Learning Project
+## Machine Learning Project
